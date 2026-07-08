@@ -72,7 +72,7 @@ const CreatePage = () => {
                                 <div className="form-control mb-4">
                                     <label className="label">
                                         <span className="label-text">
-                                            Title
+                                            Content
                                         </span>
                                     </label>
                                     <textarea
